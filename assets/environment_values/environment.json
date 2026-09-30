@@ -1,0 +1,5 @@
+{
+  "QPAYBASEURL": "https://merchant-sandbox.qpay.mn",
+"CLIENTID": "TEST_MERCHANT",
+"CLIENTSECRET": "123456"
+}

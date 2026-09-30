@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "67678883808",
+    "firebase_url": "https://profi-66d4a-default-rtdb.firebaseio.com",
+    "project_id": "profi-66d4a",
+    "storage_bucket": "profi-66d4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67678883808:android:601a5011bf9f405f976585",
+        "android_client_info": {
+          "package_name": "com.mycompany.profimongolia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw3txKeUyf9kaIYRYW3AcA8i8xn-L7nwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

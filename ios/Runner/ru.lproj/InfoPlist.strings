@@ -1,0 +1,2 @@
+NSLocationWhenInUseUsageDescription = "Пожалуйста дайте доступ к локации устройства";
+PermissionGroupNotification = "Разрешите приложению отправлять уведомления";
